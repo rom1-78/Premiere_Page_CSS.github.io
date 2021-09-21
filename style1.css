@@ -52,7 +52,16 @@ ul
 		font-size: small;
 	}
 
-a:link
+a.link
 	{
 		color: red;
+	}
+a.link:hover 
+	{ 
+		color: orange; 
+	}
+
+a.link:visited
+	{
+		color: purple;
 	}
