@@ -1,0 +1,58 @@
+body
+	{
+		background-color: yellow;
+		font-size: 12px;
+		font-family: verdana, arial;
+	}
+
+h1
+	{
+		box-shadow: 6px 6px 6px #000000;
+		color: red;
+	}
+
+.s1
+	{
+		border-radius: 100px;
+		font-size: x-large;
+		color: green;
+	}
+
+.s2
+	{
+		font-size: x-large;
+		color: red;
+		text-align: justify;
+		background-color: black;
+		border: 2px solid #00ffff;
+		margin-top: 100px;
+		margin-bottom: 100px;
+		margin-left: 100px;
+		margin-right: 100px;
+		padding-top: 100px;
+		padding-bottom: 100px;
+		padding-left: 100px;
+		padding-right: 100px;
+
+	}
+
+h2
+	{
+		color: blue;
+	}
+
+ul
+	{
+		color: pink;
+	}
+
+#t1
+	{
+		color: orange;
+		font-size: small;
+	}
+
+a:link
+	{
+		color: red;
+	}
